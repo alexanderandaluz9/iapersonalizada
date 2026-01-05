@@ -13,7 +13,7 @@ Este es un script de Python sencillo para interactuar con los modelos de intelig
 
 ## 📦 Instalación
 
-1. Clona este repositorio:
-   ```bash
-   git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
-   cd tu-repositorio
+1. Clona este repositorio
+2. Configura tu Clave API
+3. Instala la libreria
+4. Ejecuta code.py
